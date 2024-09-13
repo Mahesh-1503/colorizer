@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/colorizer/static/css/main.3634a3e0.css",
+    "main.js": "/colorizer/static/js/main.6dc7d86b.js",
+    "static/js/453.8d052237.chunk.js": "/colorizer/static/js/453.8d052237.chunk.js",
+    "index.html": "/colorizer/index.html",
+    "main.3634a3e0.css.map": "/colorizer/static/css/main.3634a3e0.css.map",
+    "main.6dc7d86b.js.map": "/colorizer/static/js/main.6dc7d86b.js.map",
+    "453.8d052237.chunk.js.map": "/colorizer/static/js/453.8d052237.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3634a3e0.css",
+    "static/js/main.6dc7d86b.js"
+  ]
+}
